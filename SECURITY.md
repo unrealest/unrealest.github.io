@@ -1,5 +1,7 @@
 # Security Policy
 
+If, for whatever reason, the website has a vulnerability, please refer to here
+
 ## Supported Versions
 
 | Version | Supported |
